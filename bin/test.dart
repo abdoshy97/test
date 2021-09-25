@@ -58,7 +58,7 @@ void task2() {
       evenNumbers.add(i);
     }
   }
-  print(evenNumbers);
+
   print('evenNumbers: $evenNumbers');
 }
 
